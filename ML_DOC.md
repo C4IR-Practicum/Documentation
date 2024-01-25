@@ -9,15 +9,15 @@ The AI-powered document navigator and insight extractor is designed to simplify 
 
 ### 1. Web Scraping Tasks
 
-With this web scraping project, I performed the following three main tasks:
+With this web scraping project, we performed the following three main tasks:
 
-1. **📄 Document Extraction:** This involved extracting all documents from websites, including PDF documents, and extracting text from them. Additionally, I extracted text from images saved within PDF files.
+1. **📄 Document Extraction:** This involved extracting all documents from websites, including PDF documents, and extracting text from them. Additionally, we extracted text from images saved within PDF files.
 
-2. **📊 PDFs to Excel:** I saved the extracted PDFs into an Excel format. This step facilitates the project owner's ability to review the documents and determine if they match the ones on their websites.
+2. **📊 PDFs to Excel:** We saved the extracted PDFs into an Excel format. This step facilitates the project owner's ability to review the documents and determine if they match the ones on their websites.
 
-3. **🔍 Text Extraction and Categorization:** I extracted text from websites across all pages and categorized them based on relevant criteria.
+3. **🔍 Text Extraction and Categorization:** We extracted text from websites across all pages and categorized them based on relevant criteria.
 
-4. **📝 Metadata Creation:** I generated metadata for each document and web page.
+4. **📝 Metadata Creation:** We generated metadata for each document and web page.
 
 *Note*: To execute this code without errors, it's recommended to use Kaggle or Google Colab and run the entire script from the beginning, as certain libraries may need to be installed and configured.
 
